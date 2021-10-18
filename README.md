@@ -12,7 +12,7 @@ You can see the practice code for CNN with this [link](https://github.com/nuwand
 ## Recurrent Neural Network
 When it comes to sequential or time series data, traditional feedforward networks cannot be used for learning and prediction. A mechanism is required that can retain past or historic information to forecast the future values. Recurrent neural networks or RNNs for short are a variant of the conventional feedforward artificial neural networks that can deal with sequential data and can be trained to hold the knowledge about the past.[[2]](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
 
-You can see the practice code for RNN with this [link](https://github.com/nuwandda/deep-learning-practices/tree/main/image_classification_with_CNN).
+You can see the practice code for RNN with this [link](https://github.com/nuwandda/deep-learning-practices/tree/main/sentiment_analysis_with_RNN).
 
 
 ## References
