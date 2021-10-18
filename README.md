@@ -17,4 +17,5 @@ You can see the practice code for RNN with this [link](https://github.com/nuwand
 
 ## References
 [1. How Do Convolutional Layers Work in Deep Learning Neural Networks?](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)
+</br>
 [2. An Introduction To Recurrent Neural Networks And The Math That Powers Them](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
