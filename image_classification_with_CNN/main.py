@@ -117,7 +117,7 @@ def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     # print('Using:', device)
 
-    path = '../datatsets/animals-10/raw-img'
+    path = '../datasets/animals-10/raw-img'
     mean = torch.tensor([0.485, 0.456, 0.406], dtype=torch.float32)
     std = torch.tensor([0.229, 0.224, 0.225], dtype=torch.float32)
 
